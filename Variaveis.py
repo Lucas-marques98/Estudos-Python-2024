@@ -20,6 +20,6 @@ print(type(Frase_de_boas_vindas))
 print(type(posso_entrar_na_sua_casa))
 print(type(valor_dollar))
 
-velocidade,frase,posso_ou_nao = 200, "Desistir jamais", True #Atribuindo valores a variáveis na mesma linha
+velocidade,frase,posso_ou_nao = 100, "Desistir jamais", True #Atribuindo valores a variáveis na mesma linha
 
 print(f'{velocidade,frase,posso_ou_nao}')
