@@ -1,0 +1,8 @@
+Verificar se valores estão pagos ou não e caso estejam, verificar
+a forma de pagamento
+
+com base em uma planilha, pegar o cpf e consultar no site disponi
+bilizado para verificar se a conta está(ou não) paga.
+
+Caso esteja paga, preencher na planilha de fechamento como 'ok',
+caso contrário, informar que continua pendente.

@@ -1,0 +1,41 @@
+SITE DO SISTEMA DE CADASTRO:
+https://cadastro-produtos-devaprender.netlify.app/index.html
+
+PASSOS MANUAIS 
+
+# Entrar na planilha
+# Copiar informação de um campo 
+e colar no seu campo correspondente
+# Repetir esses passos para outros campos
+até preencher campos daquela página
+# Clicar em próximo
+# Repetir os mesmos passos e ir para a
+próxima página (pagina 2)
+# Repetir os mesmos passos e finalizar
+o cadastro daquele produto e clicar em
+concluir
+# Clicar em ok, para finalizar o processo
+# Clicar no ok mais uma vez na mensagem
+de confirmação de salvamento no banco de 
+dados
+# Clicar em 'adicionar mais um e repetir
+o processo até finalizar a planilha'
+
+#PyautoGUI (automação de clicks e teclado)
+#Para sistema WEB o selenium é muito mais
+útil
+#Openpyxl (Leitura e automação de planilhas)
+
+pip install openpyxl pyautogui COMANDO PARA INSTALAR AS BIBLIOTECAS
+
+se tem caracteres especiais, temos que usar a biblioteca do python chamada 
+pyperclip
+
+COMANDOS PARA USAR O MOUSEINFO
+pip install mouseinfo
+
+python (para entrar na ide do python)
+
+from mouseinfo import mouseInfo (com I maiúsculo)
+
+mouseInfo()
